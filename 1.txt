@@ -1,0 +1,12 @@
+class employee:
+def _init_(self , eid , ename , esal):
+     self .eid = eid 
+     self . ename = ename
+     self .esal= esal 
+class employee{
+int empid;
+string empname 
+int empsal ;
+public employee(int empnid , string , ename , int , empsal){
+this .empid =empid;
+ this .empname= empname
